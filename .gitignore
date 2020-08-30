@@ -7,8 +7,9 @@
 # /*
 # !wp-content/
 
-!wp-config.php
-!.htaccess
+/wp-config.php
+.*
+!www/.htaccess
 
 # ignore everything in the "wp-content" directory, except:
 # "mu-plugins", "plugins", "themes" directory
