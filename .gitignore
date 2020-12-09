@@ -10,6 +10,7 @@
 /wp-config.php
 .*
 !www/.htaccess
+node_modules/
 
 # ignore everything in the "wp-content" directory, except:
 # "mu-plugins", "plugins", "themes" directory
